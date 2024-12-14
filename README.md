@@ -17,10 +17,10 @@ some product level ui showcases<br/>
 [computer science](https://github.com/ma-abaspour/computer-science)<br/>
 [computer graphics](https://github.com/ma-abaspour/computer-graphics)<br/>
 [neural networks](https://github.com/ma-abaspour/neural-networks)<br/>
-[audio & music](https://github.com/ma-abaspour/music)<br/>
+[audio & music](https://github.com/ma-abaspour/sound)<br/>
 [geography](https://github.com/ma-abaspour/geography)<br/>
 
-**Books:**<br/>
+**books:**<br/>
 [from classical mechanics to data structures, a technical history of mathematics, science and engineering.](https://github.com/ma-abaspour/history)<br/>
 [a conceptual exploration of modern mathematics](https://github.com/ma-abaspour/explorational-mathematics)<br/>
 
